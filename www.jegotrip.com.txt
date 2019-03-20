@@ -1,0 +1,13 @@
+https://www.jegotrip.com
+https://ide-cn-hongkong.data.aliyun.com/
+
+https://172.20.48.4:8443
+http://172.20.48.4
+
+020 87101416
+
+
+
+exec ping www.jegotrip.com
+
+47.89.0.183
